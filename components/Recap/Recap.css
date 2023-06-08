@@ -1,0 +1,22 @@
+.recap-container {
+    
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.recap-container h2 {
+  
+  margin-bottom: 10px;
+}
+
+.recap-container p {
+  
+  margin-bottom: 5px;
+}
+
+.recap-container strong {
+  
+  font-weight: bold;
+}

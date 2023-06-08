@@ -1,0 +1,49 @@
+.survey-container {
+  margin: 20px;
+}
+
+.select-field {
+  font-family: "Open Sans";
+  font-size: 90%;
+  line-height: 1.3em;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.options-container {
+  font-family: "Open Sans";
+  font-size: 90%;
+  line-height: 1.3em;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.option-label {
+  font-family: "Open Sans";
+  font-size: 90%;
+  line-height: 1.3em;
+  text-align: left;
+  display: block;
+  margin-bottom: 10px;
+  
+}
+
+.option-label input[type="radio"] {
+  font-family: "Open Sans";
+  font-size: 90%;
+  line-height: 1.3em;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.textarea-field {
+  font-family: "Open Sans";
+  font-size: 90%;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  height: 150px;
+  resize: vertical;
+  margin-top: 10px;
+}
