@@ -1,6 +1,7 @@
 # sxd-tech
 
 ● User Information: The user should input their name and email.
+
 ● Validation: The form should have validation on the input fields. 
 
 **Next button is disabled and warning popup when:
