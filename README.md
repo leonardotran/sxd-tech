@@ -2,7 +2,7 @@
 
 ● User Information: The user should input their name and email.
 ● Validation: The form should have validation on the input fields. 
-# Next button is disabled and warning popup when:
+**Next button is disabled and warning popup when:
   1.) Email not in correct format
   
   2.) Password strength is not strong enough/ Password must be matches
