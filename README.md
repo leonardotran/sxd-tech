@@ -17,7 +17,6 @@
 ● Survey: A basic survey with multiple-choice questions.
 
 ● Confirmation: A confirmation page that shows the user's input and allows them to confirm
-
 for submission or go back to previous steps and make changes.
 
-**Wrote 09 tests to test for validation and transition.
+● **Wrote 09 tests to test for validation and transition.
