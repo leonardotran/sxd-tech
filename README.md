@@ -1,3 +1,5 @@
+![sxd](https://github.com/leonardotran/sxd-tech/assets/60949882/b6f1f6f0-c811-4589-9ffd-a3adaed14fdb)
+
 # sxd-tech
 
 ● User Information: The user should input their name and email.
